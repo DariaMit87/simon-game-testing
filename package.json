@@ -19,7 +19,7 @@
     "jest": {
         "testEnvironment": "jsdom",
         "setupFiles": [
-            "./simon_game/tests/jest.setup.js"
+            "./tests/jest.setup.js"
         ]
     },
     "dependencies": {
